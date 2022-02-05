@@ -53,12 +53,66 @@ Readings / Books
 Requirements / Grading
 ----------------------
 
-| ACTIVITIES | PERCENTAGE |
-| --- | --- |
-|  {{< br >}}{{< br >}} Case Write-ups {{< br >}}{{< br >}} *   Students should form teams of 3 to 5, and hand-in a single write-up per team.{{< br >}}*   Write-ups are due on the first day that the case is discussed in the beginning of the class (make copies to refer to during the class).{{< br >}}*   Each team is required to hand in all write-ups, except two write-ups of its choice.{{< br >}}*   If more write-ups are handed in, only the best ones will be considered. {{< br >}}{{< br >}}  | 30% |
-| Midterm Exam (in class, between lectures 11 and 12) | 30% |
-| Final Exam (during “Final week”) | 30% |
-| Class Participation | 10% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGE
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Case Write-ups
+
+*   Students should form teams of 3 to 5, and hand-in a single write-up per team.
+*   Write-ups are due on the first day that the case is discussed in the beginning of the class (make copies to refer to during the class).
+*   Each team is required to hand in all write-ups, except two write-ups of its choice.
+*   If more write-ups are handed in, only the best ones will be considered.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Midterm Exam (in class, between lectures 11 and 12)
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Exam (during “Final week”)
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class Participation
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
 
